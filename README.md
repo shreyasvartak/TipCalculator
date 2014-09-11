@@ -12,3 +12,6 @@ Completed user stories:
 1)Creating Tip Calculator
 2)Adding Tip Calculator Settings page
 
+Walkthrough of my App
+
+![alt tag](https://raw.githubusercontent.com/shreyasvartak/TipCalculator/master/tipCalculator.gif)
